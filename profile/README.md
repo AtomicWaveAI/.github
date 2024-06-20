@@ -5,7 +5,7 @@ Welcome to the official GitHub repository of AtomicWaveAI! Here at AtomicWaveAI,
 
 ## Product
 
-![maya_35](https://github.com/AtomicWaveAI/.github/assets/65092135/027a81e1-5ec2-49c4-a9fb-48fd1ba414f2) MAYA AI 
+MAYA AI ![maya_15](https://github.com/AtomicWaveAI/.github/assets/65092135/ec4d99af-da79-413e-ab86-db2c60d1d85a)
 
 ## Our Technology
 
